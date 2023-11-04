@@ -1,1 +1,1 @@
-# XLC-S-MIBP
+# MIBPred
