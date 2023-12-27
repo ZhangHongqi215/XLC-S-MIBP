@@ -3,7 +3,7 @@
 # MIBPred-2 Analysis Tool
 
 ## Introduction
-MIBPred-2 is a comprehensive bioinformatics analysis tool designed for applying machine learning techniques to bioinformatics data. It provides functionalities for data preprocessing, feature extraction, model training, evaluation, and visualization, making it suitable for both academic research and practical applications in the field of bioinformatics.
+MIBPred-2 is a comprehensive bioinformatics analysis tool designed specifically for applying machine learning techniques to biological data. It offers a wide range of functions, including data preprocessing, feature extraction, model training, evaluation, and visualization. This makes it a valuable asset in both academic research and practical applications within the field of bioinformatics. Its primary purpose is to identify proteins that bind to metal ions.
 
 ## Features
 - **Data Preprocessing:** Prepares bioinformatics data for analysis.
