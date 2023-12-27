@@ -1,1 +1,10 @@
 Bio
+os
+gensim
+nltk
+sklearn
+numpy
+lightgbm
+xgboost
+matplotlib
+seaborn
