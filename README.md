@@ -61,7 +61,7 @@ MIBPred-2 offers a comprehensive toolkit for the machine learning analysis of bi
 # MIBPred-6 Analysis Tool
 
 ## Introduction
-MIBPred-6 is an advanced tool for bioinformatics analysis, leveraging machine learning to analyze and predict patterns in biological data. It is designed to handle complex bioinformatics datasets and provide insights through robust data analysis techniques.
+MIBPred-6 is at the forefront of bioinformatics tools, harnessing the capabilities of machine learning to scrutinize and anticipate intricate patterns in biological data. Designed with precision to tackle complex bioinformatics datasets, it employs robust data analysis techniques to reveal concealed insights. Its central mission is centered on the identification of protein types that interact with metal ions.
 
 ## Features
 - **Advanced Data Processing:** Efficiently handles complex bioinformatics data.
